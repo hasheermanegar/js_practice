@@ -4,7 +4,7 @@
   "image": "mcr.microsoft.com/devcontainers/javascript-node:5-26-trixie",
   "features": {},
   "customizations": {
-    "vscode": {
+     "vscode": {
       "extensions": [
         "esbenp.prettier-vscode",
         "vscode-icons-team.vscode-icons",
